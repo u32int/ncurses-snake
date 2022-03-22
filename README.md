@@ -1,4 +1,4 @@
 ## Snake
-A very basic snake game.
+A very basic c++ snake game.
 
 
